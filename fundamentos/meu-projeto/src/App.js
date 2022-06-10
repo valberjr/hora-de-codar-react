@@ -1,6 +1,7 @@
 import './App.css';
 
 import Frase from './components/Frase';
+import List from './components/List';
 import Pessoa from './components/Pessoa';
 import SayMyName from './components/SayMyName';
 
@@ -22,6 +23,8 @@ function App() {
                 profissao="Programadora"
                 foto="https://avatars2.githubusercontent.com/u/6194?s=460&v=4"
             />
+
+            <List />
         </div>
     );
 }
