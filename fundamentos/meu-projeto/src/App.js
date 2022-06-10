@@ -1,11 +1,7 @@
 import './App.css';
+
 import Evento from './components/Evento';
 import Form from './components/Form';
-
-import Frase from './components/Frase';
-import List from './components/List';
-import Pessoa from './components/Pessoa';
-import SayMyName from './components/SayMyName';
 
 function App() {
     const nome = 'Maria';
