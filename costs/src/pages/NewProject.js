@@ -19,11 +19,10 @@ function NewProject() {
             },
             body: JSON.stringify(project),
         })
-            .then((res) => res.json)
+            .then((res) => res.json())
             .then((data) => {
-                // redirect
                 navigate('/projects', {
-                    message: 'Projeto criado com sucesso!',
+                    state: { message: 'Projeto criado com sucesso!' },
                 });
             })
             .catch((err) => console.log(err));
