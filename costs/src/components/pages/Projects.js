@@ -1,8 +1,8 @@
 import { useLocation } from 'react-router-dom';
 
-import Message from '../components/layout/Message';
-import Container from '../components/layout/Container';
-import LinkButton from '../components/layout/LinkButton';
+import Container from '../layout/Container';
+import LinkButton from '../layout/LinkButton';
+import Message from '../layout/Message';
 
 import styles from './Projects.module.css';
 
