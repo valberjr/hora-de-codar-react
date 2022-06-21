@@ -34,75 +34,15 @@
       "id": 3
     },
     {
-      "name": "teste 4",
-      "budget": "18000",
+      "name": "Projetct 0",
+      "budget": "10000",
       "category": {
-        "id": "Infra",
-        "name": "Infra"
+        "id": "Desenvolvimento",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 4
-    },
-    {
-      "name": "asd",
-      "budget": "123",
-      "category": {
-        "id": "Infra",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "ad",
-      "budget": "123",
-      "category": {
-        "id": "Planejamento",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "khjkhkj",
-      "budget": "56456456",
-      "category": {
-        "id": "Desenvolvimento",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "kjhjkh",
-      "budget": "464556",
-      "category": {
-        "id": "Planejamento",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "asdasd",
-      "budget": "1231232",
-      "category": {
-        "id": "Desenvolvimento",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 10
     }
   ],
   "categories": [
