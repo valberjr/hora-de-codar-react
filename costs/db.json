@@ -7,8 +7,27 @@
         "id": "Planejamento",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 323,
+      "services": [
+        {
+          "name": "meu novo serviço",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "e94da953-e587-46da-8283-18430c22e692"
+        },
+        {
+          "name": "meu novo serviço",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "e94da953-e587-46da-8283-18430c22e692"
+        },
+        {
+          "name": "aaa",
+          "cost": "123",
+          "description": "asdasd",
+          "id": "35bfe56f-d9db-4a5d-9e0d-0a8cd98c9dbb"
+        }
+      ],
       "id": 3
     },
     {
